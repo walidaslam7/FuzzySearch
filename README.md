@@ -1,4 +1,6 @@
-# Fuzzy Search
+# Fuzzy Search 
+[![Build and Test](https://github.com/walidaslam7/FuzzySearch/actions/workflows/dotnet-build.yml/badge.svg)](https://github.com/walidaslam7/FuzzySearch/actions/workflows/dotnet-build.yml) [![Super-Linter](https://github.com/walidaslam7/FuzzySearch/actions/workflows/superlinter.yml/badge.svg)](https://github.com/walidaslam7/FuzzySearch/actions/workflows/superlinter.yml)
+
 
 Fuzzy search is a type of search algorithm that is used to find results even when the user's query contains errors, misspellings, or partial matches. It is particularly useful when dealing with large and complex datasets, or when users are not sure of the exact spelling or phrasing of the information they are searching for.
 
